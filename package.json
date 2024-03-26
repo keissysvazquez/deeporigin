@@ -1,0 +1,24 @@
+{
+  "name": "deeporigin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keissysvazquez/deeporigin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keissysvazquez/deeporigin/issues"
+  },
+  "homepage": "https://github.com/keissysvazquez/deeporigin#readme",
+  "devDependencies": {
+    "@types/cypress": "^1.1.3",
+    "cypress": "^13.7.1",
+    "typescript": "^5.4.3"
+  }
+}
